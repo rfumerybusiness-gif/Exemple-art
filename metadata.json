@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Art et Artisanat",
+  "description": "Refonte éditoriale et haut de gamme de l'Atelier d'Art et d'Artisanat. Une expérience muséale et immersive entre galerie contemporaine et haute façon française.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
